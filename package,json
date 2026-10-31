@@ -1,0 +1,15 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "lint": "eslint .",
+    "test": "node --test",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0",
+    "vite": "^6.0.0"
+  }
+}
